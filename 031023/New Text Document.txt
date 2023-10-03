@@ -1,0 +1,6 @@
+git set up
+
+1. open git bash in the desired or main folder. right clck and select open git bash here.
+make sire the path in git bash is set to your desired folder.
+
+2. initialize an empty git repository using command "git init"
